@@ -1,4 +1,3 @@
-const { TestScheduler } = require('jest');
 const sort = require('./sort');
 
 describe('Sorting Small Arrays', () => {
